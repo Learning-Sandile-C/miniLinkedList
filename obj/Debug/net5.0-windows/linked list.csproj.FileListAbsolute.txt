@@ -1,0 +1,44 @@
+C:\Cave\learning\linked list\bin\Debug\net5.0-windows\linked list.exe
+C:\Cave\learning\linked list\bin\Debug\net5.0-windows\linked list.deps.json
+C:\Cave\learning\linked list\bin\Debug\net5.0-windows\linked list.runtimeconfig.json
+C:\Cave\learning\linked list\bin\Debug\net5.0-windows\linked list.runtimeconfig.dev.json
+C:\Cave\learning\linked list\bin\Debug\net5.0-windows\linked list.dll
+C:\Cave\learning\linked list\bin\Debug\net5.0-windows\ref\linked list.dll
+C:\Cave\learning\linked list\bin\Debug\net5.0-windows\linked list.pdb
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list.csproj.AssemblyReference.cache
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\App.g.cs
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list_MarkupCompile.cache
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list_MarkupCompile.lref
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list.g.resources
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list.AssemblyInfoInputs.cache
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list.AssemblyInfo.cs
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list.csproj.CoreCompileInputs.cache
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list.dll
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\ref\linked list.dll
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list.pdb
+C:\Cave\learning\linked list\obj\Debug\net5.0-windows\linked list.genruntimeconfig.cache
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list.csproj.AssemblyReference.cache
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\App.g.cs
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list_MarkupCompile.cache
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list_MarkupCompile.lref
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list.dll
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\ref\linked list.dll
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list.pdb
+C:\Cave\learning\(OLD)linked list\bin\Debug\net5.0-windows\linked list.exe
+C:\Cave\learning\(OLD)linked list\bin\Debug\net5.0-windows\linked list.deps.json
+C:\Cave\learning\(OLD)linked list\bin\Debug\net5.0-windows\linked list.runtimeconfig.json
+C:\Cave\learning\(OLD)linked list\bin\Debug\net5.0-windows\linked list.runtimeconfig.dev.json
+C:\Cave\learning\(OLD)linked list\bin\Debug\net5.0-windows\linked list.dll
+C:\Cave\learning\(OLD)linked list\bin\Debug\net5.0-windows\ref\linked list.dll
+C:\Cave\learning\(OLD)linked list\bin\Debug\net5.0-windows\linked list.pdb
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list.g.resources
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list.AssemblyInfoInputs.cache
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list.AssemblyInfo.cs
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list.csproj.CoreCompileInputs.cache
+C:\Cave\learning\(OLD)linked list\obj\Debug\net5.0-windows\linked list.genruntimeconfig.cache
